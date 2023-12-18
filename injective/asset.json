@@ -485,6 +485,13 @@
     "icon": "https://explorer.injective.network/vendor/@injectivelabs/token-metadata/DOT.svg"
   },
   {
+    "id": "factory/inj1apk9x267a3qplc6q9a22xsvd2k96g0655xw59m/DRAGON",
+    "name": "DRAGON",
+    "symbol": "DRAGON",
+    "decimals": "6",
+    "type": "tokenfactory"
+  },
+  {
     "id": "factory/inj1k7ygz5ufgavnutv0hkgsz7u9g4c3yj6lq6p0jn/ELON",
     "name": "ELON",
     "symbol": "ELON",
