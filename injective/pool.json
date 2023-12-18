@@ -590,6 +590,16 @@
     "lp_token_id": "inj1uekd556zqamu8qg74u8dk5jl0dkhkm0qlqae0p"
   },
   {
+    "id": "inj1atyz3wxcaxdmhudpmpwgruqrp2yll83k47h4lz",
+    "asset_ids": [
+      "inj",
+      "factory/inj172ccd0gddgz203e4pf86ype7zjx573tn8g0df9/GINGER"
+    ],
+    "dex": "Astroport",
+    "type": "xyk",
+    "lp_token_id": "inj1nemphsdeqekqr7j8ve8gz8jcz4z2lurzty9dw3"
+  },
+  {
     "id": "inj1c8dlv5mtzmesc9qsr75zswv5adx5cskhre080n",
     "asset_ids": [
       "factory/inj1lttm52qk6hs43vqak5qyk4hl4fzu2snq2gmg0c/nyan",
@@ -748,6 +758,16 @@
     "dex": "Astroport",
     "type": "xyk",
     "lp_token_id": "inj19qechhkvsvtm6wj8e576fx7gmnn0c5pxrfeems"
+  },
+  {
+    "id": "inj1ez9m4e8f6jvds34vang0r5wxvdruwfptg4eln2",
+    "asset_ids": [
+      "inj",
+      "factory/inj1ya7ltz2mkj0z4w25lxueh7emz6qhwe33m4knx8/INJECTIV"
+    ],
+    "dex": "Astroport",
+    "type": "xyk",
+    "lp_token_id": "inj1rf4qyffm3tc06qt7sga8ypd5eumeqtl3gafesz"
   },
   {
     "id": "inj1f2gr0mkr3talad6zn4qk0jz5y8x7k53t46vyml",
